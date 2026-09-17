@@ -1,6 +1,0 @@
-6MARTOCRPIPELINE DEMO
-Status: System Operational
-Target ID: OCR-2026-X9
-Accuracy: 99.4% Verfied
-Opencv
-EasyOCR Integratlon
